@@ -1,0 +1,12 @@
+Package: uzawaalgo
+Title: UZAWA ALGORITHM
+Version: 4.2.3
+Authors@R: 
+    person("NSAME", "RODRICK AYUNI", , "yorojr237@gmail.com", role = c("aut", "cre"))
+Description:It is designed to provide a set of functions andtools
+for implementing and solving mathematical optimization problems
+using the Uzawa algorithm.
+License: ` `use_gpl3_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
